@@ -1,5 +1,3 @@
-from os import system
-
 preco_produtos = []
 quantidades = []
 total = 0
